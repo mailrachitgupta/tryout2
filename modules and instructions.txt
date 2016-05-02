@@ -1,0 +1,17 @@
+>>>First in the cmd prompt>>>python get-pip.py
+bootstrap.pypa.io/get-pip.py
+
+Directories to install
+
+pandas
+scipy
+numpy
+statsmodels   OR statsmodels.api
+pylab
+matplotlib
+
+download the file get-pip.py and save it on desktop
+in cmd prompt use cd Desktop
+python get-pip.py
+
+
